@@ -1,0 +1,50 @@
+[
+  {
+    "id": "evt-adult-001",
+    "title": "Guided Evening Wildlife Walk",
+    "category": "adults",
+    "dateISO": "2026-02-14T18:00:00",
+    "description": "A guided evening walk through the wildlife centre focusing on nocturnal British animals. Visitors will learn about animal behaviour, habitats, and conservation challenges faced by native species.",
+    "imageUrl": "https://example.com/images/adult-wildlife-walk.jpg"
+  },
+  {
+    "id": "evt-adult-002",
+    "title": "British Mammals Conservation Talk",
+    "category": "adults",
+    "dateISO": "2026-03-03T19:00:00",
+    "description": "An informative talk led by conservation experts discussing the protection of British mammals, current threats, and how the public can support conservation initiatives.",
+    "imageUrl": "https://example.com/images/conservation-talk.jpg"
+  },
+  {
+    "id": "evt-family-001",
+    "title": "Family Nature Discovery Day",
+    "category": "families",
+    "dateISO": "2026-03-10T10:00:00",
+    "description": "A family-friendly event with guided tours, interactive exhibits, and hands-on activities designed to help families learn about British wildlife together.",
+    "imageUrl": "https://example.com/images/family-discovery-day.jpg"
+  },
+  {
+    "id": "evt-family-002",
+    "title": "Seasonal Wildlife Trail Challenge",
+    "category": "families",
+    "dateISO": "2026-04-05T11:00:00",
+    "description": "Families can take part in a fun wildlife trail challenge around the centre, spotting animals and completing educational activities along the way.",
+    "imageUrl": "https://example.com/images/wildlife-trail.jpg"
+  },
+  {
+    "id": "evt-child-001",
+    "title": "Junior Wildlife Rangers Club",
+    "category": "children",
+    "dateISO": "2026-03-18T14:00:00",
+    "description": "An interactive session designed for children to learn about British wildlife through games, storytelling, and simple conservation activities.",
+    "imageUrl": "https://example.com/images/junior-rangers.jpg"
+  },
+  {
+    "id": "evt-child-002",
+    "title": "Build a Wildlife Home Workshop",
+    "category": "children",
+    "dateISO": "2026-04-12T13:30:00",
+    "description": "Children will learn how to help local wildlife by building simple homes for birds and insects, encouraging conservation awareness from a young age.",
+    "imageUrl": "https://example.com/images/wildlife-home-workshop.jpg"
+  }
+]
